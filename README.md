@@ -1,2 +1,2 @@
-# empty
-A very minimalistic website for Google verification.
+# Empty
+An empty NodeJS & ExpressJS repo.
